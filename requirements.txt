@@ -10,3 +10,6 @@ ipycanvas
 ipyleaflet
 mako
 autograd
+bayespy
+filterpy
+scikit-learn
