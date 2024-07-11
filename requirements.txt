@@ -1,7 +1,6 @@
 jupyterlite-core
 jupyterlab
 jupyterlite-pyodide-kernel
-jupyterlite-javascript-kernel
 jupyterlab_miami_nights
 ipywidgets
 ipyevents
@@ -10,6 +9,9 @@ ipycanvas
 ipyleaflet
 mako
 autograd
-bayespy
-filterpy
 scikit-learn
+bqplot
+
+# jupyterlite-javascript-kernel
+# bayespy
+# filterpy
